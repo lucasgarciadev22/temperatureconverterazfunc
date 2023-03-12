@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/temperatureconverterazfunc/static/css/main.80391e88.css",
-    "main.js": "/temperatureconverterazfunc/static/js/main.b2e3cfb8.js",
+    "main.css": "/temperatureconverterazfunc/static/css/main.298a2922.css",
+    "main.js": "/temperatureconverterazfunc/static/js/main.3b030850.js",
     "static/js/787.28cb0dcd.chunk.js": "/temperatureconverterazfunc/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fa-solid-900.ttf": "/temperatureconverterazfunc/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/temperatureconverterazfunc/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/temperatureconverterazfunc/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/temperatureconverterazfunc/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/temperatureconverterazfunc/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/temperatureconverterazfunc/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/temperatureconverterazfunc/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/temperatureconverterazfunc/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/temperatureconverterazfunc/index.html",
-    "main.80391e88.css.map": "/temperatureconverterazfunc/static/css/main.80391e88.css.map",
-    "main.b2e3cfb8.js.map": "/temperatureconverterazfunc/static/js/main.b2e3cfb8.js.map",
+    "main.298a2922.css.map": "/temperatureconverterazfunc/static/css/main.298a2922.css.map",
+    "main.3b030850.js.map": "/temperatureconverterazfunc/static/js/main.3b030850.js.map",
     "787.28cb0dcd.chunk.js.map": "/temperatureconverterazfunc/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80391e88.css",
-    "static/js/main.b2e3cfb8.js"
+    "static/css/main.298a2922.css",
+    "static/js/main.3b030850.js"
   ]
 }
